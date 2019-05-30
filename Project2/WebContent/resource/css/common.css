@@ -1,0 +1,121 @@
+#scroll_Banner {
+	position: absolute;
+	width: 100%;
+	height: 200px;
+	top: 5rem;
+	color: #fff;
+	max-width: 100%; 
+	text-algin:center;	
+}
+
+#common_content_area{
+	min-height:37rem;	
+}
+
+ul {
+   list-style:none;
+}
+
+a:link { color: black; text-decoration: none;}
+a:visited { color: gray; text-decoration: none;}
+a:hover { color: blue; text-decoration: underline;}
+
+
+.inverse-modal {
+	margin : 0 ;
+	padding : 0;
+	font-family : sans-serif;
+	background : #34495e;
+}
+
+.box1{
+	width : 500px;
+	padding : 40px;
+	position : absolute;
+	top : 30%;
+	left : 30%;
+	transform : translate (-50%,-50%);
+	background : #191919;
+	text-align : center;
+	border-radius: 30px;
+}
+.box1 h1{
+	color: white;
+	text-transform : uppercase;
+	font-weight:500;
+	
+}
+.box1 [type = "text"], .box1 [type = "password"]{
+	border : 0;
+	width : 300px;
+	background : none;
+	display : block;
+	margin : 20px auto;
+	text-align : center;
+	border: 2px solid #3498;
+	padding : 14px 10px;
+	outline:none;
+	color: white;
+	border-radius : 24px;
+	transition : 0.25s;
+	
+	}
+
+.box1 [type = "password"]:focus{
+	width : 380px;
+	border-color : #2ecc71;
+}  
+
+.box1 [type = "text"]:focus{
+ 	width : 380px;
+	border-color : #2ecc71;
+ }
+ 
+.box1 [type = "submit"], .box1 [type = "button"]{
+	border : 0;
+	background : none;
+	display : block;
+	margin : 20px auto;
+	text-align : center;
+	border : 2px solid #2ecc71;
+	padding : 14px 40px;
+	outline : none;
+	color : white;
+	border-radius : 24px;
+	transition : 0.25s;
+}
+
+ .box1 [type = "submit"]:hover{
+	background : #2ecc71;
+}
+
+.box1 [type = "button"]:hover{
+	background : #2ecc71;
+}	 	 
+
+.boxlink:link {
+	color: gray;
+	text-transform : none;
+}
+.boxlink:hover {
+	color: #2ecc71;
+	text-transform : uppercase;
+}
+.boxlink:visited {
+	color: gray;
+	text-transform : none;
+}
+
+
+.boxlink2:link {
+	color: gray;
+	text-transform : none;
+}
+.boxlink2:hover {
+	color: #2ecc71;
+	text-transform : uppercase;
+}
+.boxlink2:visited {
+	color: gray;
+	text-transform : none;
+}

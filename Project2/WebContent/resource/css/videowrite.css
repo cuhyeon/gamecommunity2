@@ -1,0 +1,14 @@
+      input {
+        vertical-align: middle;
+      }
+      input.form-text {
+        border: 1px solid #bcbcbc;
+        height: 28px;
+      }
+      input.img-button {
+        background: url("../img/videofile.png") no-repeat;
+        border: none;
+        width: 32px;
+        height: 32px;
+        cursor: pointer;
+      }

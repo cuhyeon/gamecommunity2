@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="org.masterjung.dto.BoardListDto" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/BoardListDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="201" x="69" y="68"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.masterjung.dto.CategoryDto" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/CategoryDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="266" width="203" x="297" y="64"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.masterjung.dto.Content_VoteDto" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/Content_VoteDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="311" width="202" x="518" y="66"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.masterjung.dto.Reply_VoteDto" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/Reply_VoteDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="309" width="183" x="748" y="70"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.masterjung.dto.ReplyDto" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/ReplyDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1076" y="370"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="org.masterjung.dto.Spam_WordDto" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/Spam_WordDto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1292" y="117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="org.masterjung.dto.User_Auth" project="GameCommunityMVC" 
+    file="/GameCommunityMVC/src/org/masterjung/dto/User_Auth.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1294" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,25 @@
+.scroll {
+    max-height: 25rem;
+    overflow-y: auto;
+}
+
+#eye_align {	
+	text-align:right;
+}
+
+#detail_card {
+	min-height:30rem;
+}
+
+#_left {
+	text-align:right;
+	float:right;
+}
+
+#_center {
+	 text-align: center;
+}
+
+#type2 {
+	border-radius: 100px;
+}

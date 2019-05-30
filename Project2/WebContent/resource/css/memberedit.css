@@ -1,0 +1,38 @@
+.filebox label {
+  display: inline-block;
+  padding: 0.5em;
+  color: #fff;
+  font-size: inherit;
+  line-height: normal;
+  vertical-align: middle;
+  background-color: #c0c0c0;
+  cursor: pointer;
+  border: 1px solid #808080;
+  border-radius: 1em;
+  -webkit-transition: background-color 0.2s;
+  transition: background-color 0.2s;
+}
+
+.filebox label:hover {
+  background-color: #000000;
+}
+
+.filebox label:active {
+  background-color: #000000;
+}
+
+.filebox input[type="file"] {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.setting-list > li .field {
+    width: 8rem;
+    font-size: 14px;
+}

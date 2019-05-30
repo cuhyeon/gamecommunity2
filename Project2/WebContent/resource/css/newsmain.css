@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.list{
+	width: 500px; height: 261px
+}
+#image{
+	width: 500px; height: 261px
+}
+#headline{
+	font-size: 32px; color: black
+}
+#anker{
+	text-decoration:none; color: white
+}
+
+.button-active {
+	display: block; align: center;text-align:right
+}
+.count {
+	font-size: 15px;color:orange;margin-left:5px
+}
+.pagination {
+	display: block;
+	text-align: center;
+}
+.page-item {
+	display: inline-block;
+}
+.pagination .page-item:not:first-child {
+	margin-left: 0.1rem !important;
+}

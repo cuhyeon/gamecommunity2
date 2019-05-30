@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.content{
+	height: 261;
+	width:823px
+}
+#form-table{
+	border-collapse: collapse; width: 500
+}
+#previewImage{
+	width: 500px; height: 261px
+}
+.form-control{
+	width: 240px
+}
+.col_c{
+	margin-bottom: 30px
+}
+.btn btn-outline-secondary{
+	width: 20%; font-weight: bold
+}
+#title{
+	width:760px
+}
+#news-write-form {
+	width: 100%;
+	padding: 0px 25px 0px 25px;
+}
+#form-table {
+	width: 100%;
+	collapse : collapse
+}
+#form-table tbody tr td:last-child {
+	text-align: right;
+}
+.input-group-text{
+	text-align:center;
+	width:54px
+}
+#upload_label {
+	width: 140px;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+}
+.col-10{
+	width:850px;
+	align-self:center
+}
+#wrapper{
+	width:850px;
+}

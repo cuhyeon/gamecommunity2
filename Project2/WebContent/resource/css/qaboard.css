@@ -1,0 +1,86 @@
+#write-button {
+	margin-top:10px;
+}
+
+#qa_detail_top_row {
+	padding-bottom:1rem;
+	padding-top:1rem;
+}
+
+#qa_detail_card {
+	min-height:25rem;
+}
+
+#qa_detail_badge{
+	padding-bottom:0.5rem;
+}
+
+#qa_detail_eye{
+	text-align:right;
+}
+
+.scroll {
+    max-height: 40rem;
+    overflow-y: auto;
+}
+
+#qa_detail_vote{
+	min-height:25rem;
+	
+}
+
+#qa_detail_reply_div{
+	max-width: 60px; 
+	max-height: 60px; 
+	min-width: 60px; 
+	min-height: 60px; 
+	overflow: hidden;
+	visibility:hidden;
+	margin-top:0.4rem;
+	margin-left:0.4rem;
+	margin-right:0.3rem;
+}
+
+#enterbtn{
+	margin-top:0.3rem;
+}
+
+#qa_list_user_image_path{
+	width: 40px; 
+	height: 40px; 
+	overflow: hidden;
+}
+
+#qa_no_gutters{
+	vertical-align: middle;
+}
+
+#qa_detail_reply_div_content{
+	margin-top:0.3rem;
+	margin-left:0.3rem;
+}
+
+#qa_boarder{
+	border-top:1px solid #F6F6F6; /*#9C9C9C  */
+	border-bottom:1px solid #F6F6F6;
+	margin-top:0.2rem;
+}
+
+#qa_answer{
+	margin-top:0.5rem;
+}
+
+.qaboard_writer{
+	color:blue;
+}
+
+#tboard_nav{
+	margin-top:1rem;
+}
+
+#tboard_nav_main{
+	margin-top:2rem;
+}
+
+
+

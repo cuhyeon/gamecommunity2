@@ -1,0 +1,52 @@
+ table.type1 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  table.type1 th {
+    border: 1px solid;
+  }
+	
+  table.type1 td {
+      margin:auto;
+      text-align: center;
+      
+  }
+  table.type1 tr {
+      height: 350px;
+
+  }
+  
+  .type2 {
+      height: 250px;
+
+  }
+  
+ .hover {
+ background: f9f9f9;
+ }
+  
+
+
+
+
+  
+.vdcard {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 385px;
+  border-radius: 5px;
+  font-family: '맑은고딕';
+}
+
+.vdcard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img.vdimg {
+  border-radius: 5px 5px 0 0;
+}
+
+.vdcontainer {
+  padding: 2px 16px;
+}
+

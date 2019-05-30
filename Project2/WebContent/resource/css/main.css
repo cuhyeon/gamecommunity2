@@ -1,0 +1,82 @@
+.margin-left {
+	margin-left: 1rem;
+}
+
+.navlogin {
+	color: #000;
+	font-size: 1rem;
+	font-weight: 700;
+	height: 2.875rem;
+	margin-right: 0;
+	padding: .3125rem;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+.login-control {
+    display: block;
+    width: 90%;
+    height: calc(2.0625rem + 2px);
+    padding: .375rem .75rem;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.login-group {
+    margin-bottom: 1rem;
+    margin-left : 1rem;
+}
+
+.l-m-b-30 {
+    margin-bottom: 1.875rem !important;
+    margin-left: 1rem;
+}
+
+.margin-left {
+	margin-left: 1rem;
+}
+
+.app-footer0 {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-left: 0px;
+    line-height: 1.25rem;
+    padding: .9375rem 1.875rem;
+    border-top: 1px solid #ccc;
+    background: #ddd;
+}
+
+.app-content1 {
+    margin-left:0rem;
+    padding: 1.875rem;
+    position: relative;
+    height: 100%;
+}
+
+
+.bw {
+	background-color: white;
+}
+
+.register-content1 {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: .9375rem;
+    max-width: 45rem;
+    margin: 0 auto;
+    margin-right: 0rem;
+    margin-left: 15rem;
+    position: relative;
+}
+

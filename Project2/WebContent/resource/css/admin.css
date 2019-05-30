@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+a:hover{
+	text-decoration:none;
+	color:black
+}
+.pagination {
+	display: block;
+	text-align: center;
+}
+.page-item {
+	display: inline-block;
+}
+.pagination .page-item:not:first-child {
+	margin-left: 0.1rem !important;
+}
